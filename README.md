@@ -1,3 +1,3 @@
 # Hackbot VR
 
-Code to remotely operate hackbot via VR.
+This code communicates with the VR headset and executes commands on the robot.
